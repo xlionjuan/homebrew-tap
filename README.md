@@ -1,6 +1,6 @@
 # 🍺 xlionjuan/homebrew-tap
 
-Homebrew Tap for xlionjuan's projects.
+xlionjuan's personal Homebrew Tap.
 
 ## Available Casks
 
