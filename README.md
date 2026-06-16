@@ -17,6 +17,4 @@ brew install xlionjuan/tap/searxng-mcp-go
 - [Homebrew](https://brew.sh/) (macOS) or [Linuxbrew](https://docs.brew.sh/Homebrew-on-Linux) (Linux)
 - Linux: x86_64 or arm64
 
-## License
-
-Formulae in this tap are licensed under MIT, unless otherwise noted.
+|
