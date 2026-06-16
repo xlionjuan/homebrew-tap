@@ -4,17 +4,17 @@ xlionjuan's personal Homebrew Tap.
 
 ## Available Casks
 
-### searxng-mcp-go
+### [searxng-mcp-go](https://github.com/xlionjuan/searxng-mcp-go)
 
-[SearXNG MCP Server](https://github.com/xlionjuan/searxng-mcp-go) — web search via Meta Search Engine.
+SearXNG MCP Server — web search via Meta Search Engine.
 
 ```bash
 brew install xlionjuan/tap/searxng-mcp-go
 ```
 
-### wastebin-mcp-go
+### [wastebin-mcp-go](https://github.com/xlionjuan/wastebin-mcp-go)
 
-[Wastebin MCP Server](https://github.com/xlionjuan/wastebin-mcp-go) — paste creation via Wastebin.
+Wastebin MCP Server — paste creation via Wastebin.
 
 ```bash
 brew install xlionjuan/tap/wastebin-mcp-go
